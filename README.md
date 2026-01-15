@@ -59,5 +59,6 @@ daxwell-churn-analysis/
 ```bash
 pip install -r requirements.txt
 jupyter notebook
-Author
+
+##Author
 Lokesh Umamaheswari Ethirajan
