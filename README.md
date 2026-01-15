@@ -60,5 +60,3 @@ daxwell-churn-analysis/
 pip install -r requirements.txt
 jupyter notebook
 
-##Author
-Lokesh Umamaheswari Ethirajan
